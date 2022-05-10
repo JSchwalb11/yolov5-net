@@ -1,0 +1,11 @@
+{
+  "name": "com.yolov5-net.www",
+  "displayName": "Yolov5-NET",
+  "version": "1.0.0",
+  "unity": "2020.3.27f1",
+  "description": "Integrating Yolov5 with Unity",
+  "keywords": ["ML", "Object", "Detection"],
+  "category": "ML",
+  "dependencies": {
+  }
+}
